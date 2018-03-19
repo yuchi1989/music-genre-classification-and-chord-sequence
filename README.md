@@ -1,22 +1,22 @@
 # music-genre-classification-and-chord-sequence
 
-###Motivation
+### Motivation
 <br /><br />
 ![](docs/image1.png)
 
-###Proposed Solution
+### Proposed Solution
 <br /><br />
 ![](docs/image2.png)
-#####For 1-nn, Distance = 1/Length(longest common subsequence)
+##### For 1-nn, Distance = 1/Length(longest common subsequence)
 
-###Features Extraction
-####Low Level Feature
+### Features Extraction
+#### Low Level Feature
 <br />
 ![](docs/image3.png)
-####Chord Sequence
+#### Chord Sequence
 <br />
 ![](docs/image4.png)
 
-###Feature Selection and Classification
+### Feature Selection and Classification
 <br /><br />
 ![](docs/image5.png)
