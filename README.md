@@ -11,11 +11,11 @@
 
 ### Features Extraction
 #### Low Level Feature
-<br />
+<br /><br />
 ![](docs/image3.png)
 
 #### Chord Sequence
-<br />
+<br /><br />
 ![](docs/image4.png)
 
 ### Feature Selection and Classification
